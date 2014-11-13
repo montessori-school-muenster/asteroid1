@@ -1,20 +1,11 @@
 #BlueJ class context
 comment0.params=
 comment0.target=Mover()
-comment1.params=speed
-comment1.target=Mover(Vector)
-comment1.text=\n\ Erzeugt\ einen\ neuen\ Gegenstand,\ initialisiert\ mit\ der\ angegebenen\ Geschwindigkeit.\n
-comment2.params=
-comment2.target=void\ move()
-comment2.text=\n\ R\u00FCckt\ einen\ Schritt\ vorw\u00E4rts.\n
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\n\ R\u00FCckt\ einen\ Schritt\ vorw\u00E4rts.\n
+comment2.params=x\ y
+comment2.target=void\ setLocation(double,\ double)
 comment3.params=x\ y
-comment3.target=void\ setLocation(double,\ double)
-comment4.params=x\ y
-comment4.target=void\ setLocation(int,\ int)
-comment5.params=s
-comment5.target=void\ increaseSpeed(Vector)
-comment5.text=\n\ Erh\u00F6ht\ die\ Geschwindigkeit\ um\ den\ \u00FCbergebenen\ Vektor.\n
-comment6.params=
-comment6.target=Vector\ getMovement()
-comment6.text=\n\ Liefert\ die\ aktuelle\ Bewegung\ zur\u00FCck.\n
-numComments=7
+comment3.target=void\ setLocation(int,\ int)
+numComments=4
