@@ -22,7 +22,7 @@ public class Rocket extends Mover
      */
     public Rocket()
     {
-        gunReloadTime = 20;
+        gunReloadTime = 30;
         reloadDelayCount = 0;
         acceleration = new Vector(0, 0.3);
         increaseSpeed(new Vector(13, 0.3)); // anfangs langsam dahintreibend
